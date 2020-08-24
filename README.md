@@ -7,7 +7,7 @@ All you need to do is configure the messages in application.yml under:
   autoReplyComments:
     - Thank you.
     - Thanks a lot.
-    - Appreciate your feedback.
+    - Thank you for the feedback.
     - Thanks a lot for your support.
     - Thanks a ton
     - Namaste! Thanks a lot.
