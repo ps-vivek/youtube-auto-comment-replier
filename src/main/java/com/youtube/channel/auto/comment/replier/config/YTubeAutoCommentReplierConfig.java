@@ -1,4 +1,4 @@
-package com.mbrothers.channel.youtubecommentor.config;
+package com.youtube.channel.auto.comment.replier.config;
 
 import java.util.ArrayList;
 import java.util.List;

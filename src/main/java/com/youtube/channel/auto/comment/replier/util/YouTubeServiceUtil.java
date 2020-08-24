@@ -1,4 +1,4 @@
-package com.mbrothers.channel.youtubecommentor.util;
+package com.youtube.channel.auto.comment.replier.util;
 
 import java.io.IOException;
 import java.security.GeneralSecurityException;
@@ -7,7 +7,7 @@ import com.google.api.services.youtube.YouTube;
 import com.google.api.services.youtube.model.Comment;
 import com.google.api.services.youtube.model.CommentThreadListResponse;
 import com.google.api.services.youtube.model.VideoListResponse;
-import com.mbrothers.channel.youtubecommentor.config.YTubeAutoCommentReplierConfig;
+import com.youtube.channel.auto.comment.replier.config.YTubeAutoCommentReplierConfig;
 
 import lombok.extern.slf4j.Slf4j;
 

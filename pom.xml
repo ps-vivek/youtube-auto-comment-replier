@@ -9,11 +9,11 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mbrothers.channel</groupId>
-	<artifactId>youtube-auto-comment-replier-app</artifactId>
+	<groupId>com.youtube.channel</groupId>
+	<artifactId>auto-comment-replier</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>youtube-auto-comment-replier-app</name>
-	<description>Project related to mbrothers yt channel</description>
+	<description>Project related to replying to all the youtube comments automatically for a video</description>
 
 	<properties>
 		<java.version>1.8</java.version>

@@ -1,4 +1,4 @@
-package com.mbrothers.channel.youtubecommentor.util;
+package com.youtube.channel.auto.comment.replier.util;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -20,7 +20,7 @@ import com.google.api.client.http.javanet.NetHttpTransport;
 import com.google.api.client.json.JsonFactory;
 import com.google.api.client.json.jackson2.JacksonFactory;
 import com.google.api.services.youtube.YouTube;
-import com.mbrothers.channel.youtubecommentor.constants.YTubeAutoCommentReplierConstants;
+import com.youtube.channel.auto.comment.replier.constants.YTubeAutoCommentReplierConstants;
 
 public class GoogleOauthClientUtil {
 

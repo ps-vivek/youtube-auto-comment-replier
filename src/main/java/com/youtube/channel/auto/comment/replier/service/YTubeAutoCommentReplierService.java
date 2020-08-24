@@ -1,4 +1,4 @@
-package com.mbrothers.channel.youtubecommentor.service;
+package com.youtube.channel.auto.comment.replier.service;
 
 import java.io.IOException;
 import java.util.Random;
@@ -14,9 +14,9 @@ import com.google.api.services.youtube.model.Comment;
 import com.google.api.services.youtube.model.CommentSnippet;
 import com.google.api.services.youtube.model.CommentThread;
 import com.google.api.services.youtube.model.CommentThreadListResponse;
-import com.mbrothers.channel.youtubecommentor.config.YTubeAutoCommentReplierConfig;
-import com.mbrothers.channel.youtubecommentor.constants.YTubeAutoCommentReplierConstants;
-import com.mbrothers.channel.youtubecommentor.util.YouTubeServiceUtil;
+import com.youtube.channel.auto.comment.replier.config.YTubeAutoCommentReplierConfig;
+import com.youtube.channel.auto.comment.replier.constants.YTubeAutoCommentReplierConstants;
+import com.youtube.channel.auto.comment.replier.util.YouTubeServiceUtil;
 
 import lombok.extern.slf4j.Slf4j;
 

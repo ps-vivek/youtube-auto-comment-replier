@@ -1,4 +1,4 @@
-package com.mbrothers.channel.youtubecommentor.constants;
+package com.youtube.channel.auto.comment.replier.constants;
 
 public class YTubeAutoCommentReplierConstants {
 	public static final String APPLICATION_NAME = "Ytube Auto Comment Replier";
