@@ -1,0 +1,14 @@
+server:
+  port: 9595
+config:
+  maxResultsPerPage: 30
+  apiKey: --Generate your api key from google console 
+  autoReplyComments:
+    - Thank you.
+    - Thanks a lot.
+    - Appreciate your feedback.
+    - Thanks a lot for your support.
+    - Thanks a ton
+    - Namaste! Thanks a lot.
+    - Thanks a lot for your comments.
+    - Thanks a lot. Appreciate your feedback. All the feedback inspires us to work even harder.
