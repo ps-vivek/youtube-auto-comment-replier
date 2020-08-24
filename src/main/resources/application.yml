@@ -6,7 +6,7 @@ config:
   autoReplyComments:
     - Thank you.
     - Thanks a lot.
-    - Appreciate your feedback.
+    - Thank you for feedback.
     - Thanks a lot for your support.
     - Thanks a ton
     - Namaste! Thanks a lot.
